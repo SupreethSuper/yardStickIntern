@@ -1,0 +1,23 @@
+Task 1
+
+1. Download a youtube video using python script
+
+2. Extract the audio from the video 
+
+3. Use Deepgram API to convert it into text 
+
+4. Use the text to generate audio using a voice of Eleven Labs 
+
+Please write a python script in Google Colab, please submit the Google Colab with open access provided. 
+
+
+
+*
+References:
+
+Deepgram speech-to-text: https://developers.deepgram.com/reference/deepgram-api-overview 
+
+Eleven Labs: https://elevenlabs.io/docs/api-reference/text-to-speech 
+
+
+api key : 274b957c8cbe9422b7702af57faa8071c3ed3a4e
